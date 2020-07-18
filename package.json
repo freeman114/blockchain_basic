@@ -1,0 +1,15 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "This is my first blockchain project.",
+  "main": "main.js",
+  "dependencies": {
+    "object-hash": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wolfman",
+  "license": "ISC"
+}
